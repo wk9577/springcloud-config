@@ -1,2 +1,2 @@
-spirng：
-	text: 1
+ config:
+  info: "master branch,config-repo config-dev.yml version=1"
